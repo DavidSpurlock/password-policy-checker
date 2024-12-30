@@ -10,7 +10,7 @@ A Python-based tool for validating passwords against custom policies and calcula
 ## Installation
 Clone the repository and install the required packages:
 ```bash
-git clone https://github.com/yourusername/password-policy-checker.git
+git clone https://github.com/davidspurlock/password-policy-checker.git
 cd password-policy-checker
 pip install -r requirements.txt
 
